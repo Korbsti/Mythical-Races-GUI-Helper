@@ -1,0 +1,11 @@
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\bin\Debug\MythicalRacesHelperGUI.exe.config
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\bin\Debug\MythicalRacesHelperGUI.exe
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\bin\Debug\MythicalRacesHelperGUI.pdb
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.csproj.AssemblyReference.cache
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.Properties.Resources.resources
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.csproj.GenerateResource.cache
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.csproj.CoreCompileInputs.cache
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.exe
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.pdb
+C:\Users\ushno\source\repos\MythicalRacesHelperGUI\MythicalRacesHelperGUI\obj\Debug\MythicalRacesHelperGUI.Form1.resources
